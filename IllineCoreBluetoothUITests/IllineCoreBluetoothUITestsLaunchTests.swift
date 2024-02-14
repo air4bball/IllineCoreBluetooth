@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class CoreBluetoothTestUITestsLaunchTests: XCTestCase {
+final class IllineCoreBluetoothUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
